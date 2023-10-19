@@ -21,3 +21,20 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+.websites a {
+    float: center;
+    color: #000000;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.websites a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.websites a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
